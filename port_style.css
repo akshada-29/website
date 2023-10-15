@@ -1,0 +1,154 @@
+body{
+	margin: 0;
+	padding: 0;
+	background-color: whitesmoke;
+}
+.main{
+	width:100%;
+	height: 630px;
+}
+.navbar
+{
+	background: whitesmoke;
+	box-shadow: 0px 2px 5px grey;
+}
+.navbar-brand{
+	cursor: pointer;
+}
+.topnav-center{
+	word-spacing: 20px;
+	margin-right:100px;
+}
+.topnav-center a{
+	color:black;
+	font-weight: 500;
+	text-decoration: none;
+	padding: 10px;
+	font-size: 20px;
+}
+.topnav-center a:hover{
+	background-color: white;
+	padding: auto;
+}
+.first_sec{
+	float:left;
+	text-align:justify;
+	padding-left:250px;
+	margin-top: 150px;
+}
+.first_sec h3{
+line-height: 1.3;
+}
+.first_sec h2{
+line-height: 1.2;
+}
+.first_sec h5{
+line-height: 1.3;
+margin-bottom: 10px;
+}
+.first_sec p{
+	font-weight: 600;
+}
+.first_sec a{
+
+}
+.second_sec{
+	float: left;
+	padding-top: 45px;
+}
+.second_sec img{
+	height: 600px;
+	width:650px;
+}
+.container-fluid h1{
+	text-align: center;
+	margin: 40px 0;
+}
+.about1{
+	float: left;
+}
+.about1 img{
+	height: 590px;
+	width:650px;
+	margin-top: -35px;
+}
+.about2{
+	float: left;
+	margin-top: 120px;
+	line-height: 1.6;
+	font-weight: 550;
+}
+.skills1{
+	float: left;
+}
+.skills1 h1{
+	text-align: center;
+	margin: 50px 0 20px 0;
+}
+.skills1 span{
+	font-weight:500;
+	margin-left: 15px;
+	text-transform: uppercase;
+}
+.skills1 progress{
+	margin-left: 15px;
+	width: 100%;
+	height: 40px;
+}
+.services{
+	height: 400px;
+	width: 100%;
+}
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  width: 25%;
+  height:200px;
+  text-align: center;
+  margin:20px 0 10px 100px;
+  float: left;
+}
+.card:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+.container {
+  padding: 15px 16px;
+}
+.card i{
+	margin-top:50px;
+}
+form{
+	margin-left: 25%;
+	margin-right: 25%;
+}
+input{
+	height: 50px;
+	width: 100%;
+	text-align: center;
+	font-weight: 500;
+	border: none;
+	margin:10px 10px 10px 0;
+}
+textarea{
+	width: 100%;
+	height: 100px;
+	border: none;
+	text-align: center;
+	font-weight: 500;
+}
+button{
+	width: 100%;
+	height: 50px;
+	margin-top: 30px;
+}
+
+i{
+	font-size: 20px;
+	float: left;
+  	text-align: center; 
+    width:50px; 
+    margin-top: 35px;
+}
+i:nth-child(1)
+{
+	margin-left:42%;
+}
